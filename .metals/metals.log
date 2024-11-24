@@ -1,0 +1,271 @@
+2024.11.24 04:01:01 INFO  Started: Metals version 1.4.1 in folders '/home/vitamin1312/Documents/IT/PlayToDoList' for client Visual Studio Code 1.95.3.
+2024.11.24 04:01:01 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.24 04:02:30 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Nov 24, 2024 4:02:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Nov 24, 2024 4:02:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Nov 24, 2024 4:02:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Nov 24, 2024 4:02:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Nov 24, 2024 4:02:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:39 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:39 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:39 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:39 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:42 WARN  no build target for: /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala
+2024.11.24 04:02:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:45 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:45 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:02:45 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:07 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:07 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:08 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:09 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:09 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:12 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:12 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:12 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:12 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:12 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:13 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:12 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:13 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:13 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:13 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:13 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:16 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:17 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:17 WARN  no build target for: /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala
+2024.11.24 04:03:17 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:17 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:18 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:47 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:03:48 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Nov 24, 2024 4:04:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.24 04:04:26 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:33 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:33 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:33 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:35 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:38 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:38 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:38 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:38 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:38 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:38 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:38 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:38 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:38 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:38 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:39 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:38 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:40 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:40 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:40 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:40 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:40 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:43 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:43 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:42 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:45 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:45 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:45 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:45 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:44 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:46 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:46 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:46 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:46 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:46 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:46 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:46 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:47 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:47 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:47 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:47 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:47 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:48 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:48 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:48 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:48 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:48 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:49 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:49 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:49 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:49 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:49 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:49 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:49 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:49 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:50 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:50 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:49 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:50 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:50 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:50 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:50 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:50 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:50 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:51 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:50 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:50 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:50 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:51 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:51 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:51 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:51 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:52 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:51 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:51 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:52 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:52 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:52 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:52 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:53 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:52 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:52 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:53 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:53 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:53 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:53 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:53 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:54 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:55 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:55 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:55 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:55 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:57 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:57 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:57 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:57 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:57 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:58 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:58 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:58 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:58 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:58 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:58 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:58 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:58 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:58 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:58 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:07:58 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:08:00 WARN  no build target for: /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala
+2024.11.24 04:08:00 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:08:00 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:08:00 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:08:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:08:41 WARN  no build target for: /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala
+2024.11.24 04:08:41 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:05 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:05 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:05 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:28 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:29 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:29 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:30 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:29 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:29 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:30 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:31 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:31 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:32 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:32 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:33 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:32 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:32 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:33 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:34 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:34 WARN  no build target for: /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala
+2024.11.24 04:10:34 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:34 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:10:37 WARN  no build target for: /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala
+2024.11.24 04:10:37 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.24 04:12:22 INFO  Shutting down server
+2024.11.24 04:12:22 INFO  shutting down Metals
+2024.11.24 04:12:22 INFO  Exiting server
+2024.11.24 04:12:22 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
