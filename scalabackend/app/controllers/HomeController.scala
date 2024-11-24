@@ -22,7 +22,7 @@ class HomeController @Inject()(val controllerComponents: ControllerComponents) e
     Ok(views.html.index("Wonderful!!!"))
   }
 
-  def product(productType: String, productNumber: Int) = Action {
+  def product(productType: String, productNumber: Int) = Action { implicit request =>
         Ok(s"Product type is: $productType, product number is: $productNumber")
   }
 }

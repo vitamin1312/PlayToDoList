@@ -9,9 +9,14 @@ import models._
 @Singleton
 class TaskList @Inject()(val controllerComponents: ControllerComponents) extends BaseController {
 
-    def taskList = Action {
-        val username = "a"
-        val tasks = TaskModel.getTasks(username)
-        Ok(views.html.taskList(tasks))
+    def taskList = Action { implicit request =>
+        val usernameOption = request.session.get("username")
+        usernameOption.map { username =>
+            val tasks = TaskModel.getTasks(username)
+            Ok(views.html.taskList(tasks))
+        }.getOrElse(
+            Redirect(routes.UsersController.login)
+        )
+
     }
 }

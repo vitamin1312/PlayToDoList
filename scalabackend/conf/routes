@@ -9,11 +9,10 @@ GET     /                                       controllers.HomeController.index
 # TODO routing
 GET     /taskList                               controllers.TaskList.taskList
 # Users routing
-GET     /login                                  controllers.UsersController.login
-+ nocsrf
+GET     /login                                  controllers.UsersController.login()
 POST    /validatePost                           controllers.UsersController.validateLoginPost
-+ nocsrf
 POST    /createPost                             controllers.UsersController.createUserPost
+GET     /logout                                 controllers.UsersController.logout
 
 
 # temporary routs

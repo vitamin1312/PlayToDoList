@@ -1,8 +1,9 @@
-@()
+@()(implicit request: RequestHeader, flash: Flash)
 
 @main("Login"){
     <h2> Login </h2>
     <form method="post" action="@routes.UsersController.validateLoginPost">
+        @helper.CSRF.formField
         Username: <input type="text" name="username"></input>
         Password: <input type="password" name="password"></input>
         <br>
@@ -11,6 +12,7 @@
 
     <h2> Create User </h2>
     <form method="post" action="@routes.UsersController.createUserPost">
+        @helper.CSRF.formField
         Username: <input type="text" name="username"></input>
         Password: <input type="password" name="password"></input>
         <br>
