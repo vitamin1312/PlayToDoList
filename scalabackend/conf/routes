@@ -8,9 +8,13 @@ GET     /                                       controllers.HomeController.index
 
 # TODO routing
 GET     /taskList                               controllers.TaskList.taskList
-# Login routing
+# Users routing
 GET     /login                                  controllers.UsersController.login
++ nocsrf
 POST    /validatePost                           controllers.UsersController.validateLoginPost
++ nocsrf
+POST    /createPost                             controllers.UsersController.createUserPost
+
 
 # temporary routs
 GET     /productArgs                            controllers.HomeController.product(productType, productNum: Int)
