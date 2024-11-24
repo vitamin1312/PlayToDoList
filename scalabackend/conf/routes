@@ -4,8 +4,17 @@
 # ~~~~
 
 # An example controller showing a sample home page
-GET     /                           controllers.HomeController.index()
-GET     /taskList                   controllers.TaskList.taskList
+GET     /                                       controllers.HomeController.index()
+
+# TODO routing
+GET     /taskList                               controllers.TaskList.taskList
+# Login routing
+GET     /login                                  controllers.UsersController.login
+POST    /validatePost                           controllers.UsersController.validateLoginPost
+
+# temporary routs
+GET     /productArgs                            controllers.HomeController.product(productType, productNum: Int)
+GET     /product/:productType/:productNumber    controllers.HomeController.product(productType, productNumber: Int)
 
 # Map static resources from the /public folder to the /assets URL path
-GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+GET     /assets/*file                           controllers.Assets.versioned(path="/public", file: Asset)

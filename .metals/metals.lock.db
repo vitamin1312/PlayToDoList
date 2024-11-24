@@ -1,0 +1,6 @@
+#FileLock
+#Sun Nov 24 22:59:47 MSK 2024
+hostName=localhost
+id=1935fc2463ebe876eba4fc2b1864971ac8857639e53
+method=file
+server=localhost\:42201
