@@ -8,6 +8,9 @@ GET     /                                       controllers.HomeController.index
 
 # TODO routing
 GET     /taskList                               controllers.TaskList.taskList
+POST    /addTask                                controllers.TaskList.addTask
+POST    /deleteTask                             controllers.TaskList.deleteTask
+
 # Users routing
 GET     /login                                  controllers.UsersController.login()
 POST    /validatePost                           controllers.UsersController.validateLoginPost
