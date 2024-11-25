@@ -6,6 +6,8 @@ import play.api.mvc._
 
 import models._
 
+case class LoginData(username: String, password: String)
+
 @Singleton
 class TaskList @Inject()(val controllerComponents: ControllerComponents) extends BaseController {
 

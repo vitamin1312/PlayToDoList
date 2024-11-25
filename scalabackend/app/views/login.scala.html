@@ -1,21 +1,25 @@
-@()(implicit request: RequestHeader, flash: Flash)
+@(loginForm: Form[LoginData])(implicit request: MessagesRequestHeader, flash: Flash)
 
 @main("Login"){
     <h2> Login </h2>
     <form method="post" action="@routes.UsersController.validateLoginPost">
         @helper.CSRF.formField
         Username: <input type="text" name="username"></input>
+        <br>
+        <br>
         Password: <input type="password" name="password"></input>
         <br>
-        <input type="submit"> </input>
+        <input type="submit" value="login"> </input>
     </form>
 
     <h2> Create User </h2>
-    <form method="post" action="@routes.UsersController.createUserPost">
+
+    @helper.form(action = routes.UsersController.validateCreateForm) {
         @helper.CSRF.formField
-        Username: <input type="text" name="username"></input>
-        Password: <input type="password" name="password"></input>
-        <br>
-        <input type="submit"> </input>
-    </form>
+        @helper.inputText(loginForm("Username"))
+        @helper.inputText(loginForm("Password"))
+        <div class="form-actions">
+            <button type="submit">create user</button>
+        </div>
+    }
 }
