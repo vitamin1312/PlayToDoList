@@ -1,0 +1,3 @@
+CREATE USER admin WITH PASSWORD 'admin';
+
+CREATE DATABASE tasklist WITH OWNER = admin;
