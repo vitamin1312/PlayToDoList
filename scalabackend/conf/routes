@@ -4,18 +4,19 @@
 # ~~~~
 
 # An example controller showing a sample home page
-GET     /siteInfo                               controllers.HomeController.info()
-
-# TODO routing
-GET     /taskList                               controllers.TaskList.taskList
-POST    /addTask                                controllers.TaskList.addTask
-POST    /deleteTask                             controllers.TaskList.deleteTask
+GET     /siteInfo                               controllers.Application.info()
 
 # Users routing
-GET     /                                       controllers.UsersController.login()
-POST    /validatePost                           controllers.UsersController.validateLoginPost
-POST    /validateCreateForm                           controllers.UsersController.validateCreateForm
-GET     /logout                                 controllers.UsersController.logout
+GET     /                                       controllers.Application.login
+POST    /validatePost                           controllers.Application.validateLoginPost
+POST    /validateCreateForm                     controllers.Application.validateCreateForm
+GET     /logout                                 controllers.Application.logout
+GET     /recoverPassword                        controllers.Application.recoverPassword
 
-# Map static resources from the /public folder to the /assets URL path
+# TODO routing
+GET     /taskList                               controllers.Application.taskList
+POST    /addTask                                controllers.Application.addTask
+POST    /deleteTask                             controllers.Application.deleteTask
+
+# assets
 GET     /assets/*file                           controllers.Assets.versioned(path="/public", file: Asset)

@@ -1,9 +1,8 @@
-@(loginForm: Form[LoginData])(implicit request: MessagesRequestHeader, flash: Flash)
+@(loginForm: Form[LoginData])(implicit messages: Messages, flash: Flash)
 
 @main("Login"){
     <h2> Login </h2>
-    <form method="post" action="@routes.UsersController.validateLoginPost">
-        @helper.CSRF.formField
+    <form method="post" action="@routes.Application.validateLoginPost">
         Username: <input type="text" name="username"></input>
         <br>
         <br>
@@ -12,10 +11,11 @@
         <input type="submit" value="login"> </input>
     </form>
 
+    <a href="@routes.Application.recoverPassword">Forgot password?</a>
+
     <h2> Create User </h2>
 
-    @helper.form(action = routes.UsersController.validateCreateForm) {
-        @helper.CSRF.formField
+    @helper.form(action = routes.Application.validateCreateForm) {
         @helper.inputText(loginForm("Username"))
         @helper.inputText(loginForm("Password"))
         <div class="form-actions">

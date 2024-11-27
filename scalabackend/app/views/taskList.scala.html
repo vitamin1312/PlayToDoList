@@ -1,27 +1,25 @@
-@(tasks: Seq[String])(implicit request: RequestHeader, flash: Flash)
+@(tasks: Seq[(models.Task, models.User)])(implicit request: RequestHeader, flash: Flash)
 
 @main("Task List") {
     <h2> Task List </h2>
 
     <ul>
-        @for((task, i) <- tasks.zipWithIndex) {
-            <li> @task </li>
-            <form method="post" action="@routes.TaskList.deleteTask">
-                @helper.CSRF.formField
-                <input type="hidden" name="index" value="@i"></input>
+        @for((task, user) <- tasks) {
+            <li> @task.text </li>
+            <form method="post" action="@routes.Application.deleteTask">
+                <input type="hidden" name="index" value="@task.id"></input>
                 <input type="submit" value="Delete"></input>
             </form>
         }
     </ul>
 
-    <form method="post" action="@routes.TaskList.addTask">
-        @helper.CSRF.formField
+    <form method="post" action="@routes.Application.addTask">
         <input type="text" name="NewTaskInput"> </input>
         <br>
         <input type="submit" value="add task"> </input>
     </form>
 
     <div>
-        <a href="@routes.UsersController.logout">Logout</a>
+        <a href="@routes.Application.logout">Logout</a>
     </div>
 }
