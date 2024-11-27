@@ -5,16 +5,28 @@ import play.api._
 import play.api.mvc._
 import play.api.data._
 import play.api.data.Forms._
+import scala.concurrent.ExecutionContext
+import slick.jdbc.JdbcProfile
+import slick.jdbc.PostgresProfile.api._
+import play.api.db.slick.{DatabaseConfigProvider, HasDatabaseConfigProvider}
+import javax.inject._
+import scala.collection.mutable
 
 import models._
 
 
 @Singleton
-class UsersController @Inject()(val controllerComponents: MessagesControllerComponents) extends MessagesBaseController {
+class UsersController @Inject()(
+    protected val dbConfigProvider: DatabaseConfigProvider,
+    val controllerComponents: ControllerComponents
+    )(implicit ec: ExecutionContext)
+    extends BaseController with HasDatabaseConfigProvider[JdbcProfile] {
+
+    private val userModel = new UserModel(db)
 
     val loginForm = Form(mapping(
         "Username" -> text(4, 10),
-        "Password" -> text(8)
+        "Password" -> text(8)    
     )(LoginData.apply)(LoginData.unapply))
 
     def login = Action { implicit request =>
@@ -28,7 +40,7 @@ class UsersController @Inject()(val controllerComponents: MessagesControllerComp
             val username = args("username").head
             val password = args("password").head
 
-            if (UserModel.validateUser(username, password)) {
+            if (userModel.validateUser(username, password)) {
                 Redirect(routes.TaskList.taskList).withSession("username" -> username)
             } else {
                 Redirect(routes.UsersController.login).flashing("error" -> "Invalid username/password.")
@@ -42,7 +54,7 @@ class UsersController @Inject()(val controllerComponents: MessagesControllerComp
         loginForm.bindFromRequest.fold(
             formWithError => BadRequest(views.html.login(formWithError)),
             ld => 
-                if (UserModel.createUser(ld.username, ld.password)) {
+                if (userModel.createUser(ld.username, ld.password)) {
                     Redirect(routes.TaskList.taskList).withSession("username" -> ld.username)
                 } else {
                     Redirect(routes.UsersController.login).flashing("error" -> "Invalid username/password.")

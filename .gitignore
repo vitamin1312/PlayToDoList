@@ -15,4 +15,5 @@ server.pid
 /dist/
 .cache
 *.log
-.metals
+*.db
+*.metals

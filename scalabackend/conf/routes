@@ -14,7 +14,7 @@ POST    /deleteTask                             controllers.TaskList.deleteTask
 # Users routing
 GET     /                                       controllers.UsersController.login()
 POST    /validatePost                           controllers.UsersController.validateLoginPost
-POST    /validateCreateForm                           controllers.UsersController.validateCreateForm
+POST    /validateCreateForm                     controllers.UsersController.validateCreateForm
 GET     /logout                                 controllers.UsersController.logout
 
 # Map static resources from the /public folder to the /assets URL path

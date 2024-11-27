@@ -1,19 +1,19 @@
 package models;
 
-import collection.mutable._
+//import slick.jdbc.PostgresProfile.api._
+import slick.jdbc.JdbcBackend
+import scala.concurrent.ExecutionContext
 
-object UserModel {
+import models.Tables._
 
-    private var users = Map[String, String]("a" -> "b")
+
+class UserModel(db: JdbcBackend#Database)(implicit ec: ExecutionContext) {
 
     def validateUser(username: String, password: String): Boolean = {
-        users.get(username).map(_ == password).getOrElse(false)
+        ???
     }
 
     def createUser(username: String, password: String): Boolean = {
-        if (users.contains(username)) false else {
-            users(username) = password
-            true
-        }
+        ???
     }
 }

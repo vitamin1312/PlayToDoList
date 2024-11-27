@@ -13596,3 +13596,764 @@ Caused by: java.io.IOException: error=2, No such file or directory
 2024.11.26 23:46:17 INFO  compiling root (16 scala sources and 1 java source)
 2024.11.26 23:46:18 WARN  javac exited with exit code -1
 2024.11.26 23:46:18 INFO  time: compiled root in 1.06s
+2024.11.26 23:53:39 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.26 23:53:42 WARN  javac exited with exit code -1
+2024.11.26 23:53:42 INFO  time: compiled root in 2.85s
+2024.11.26 23:55:57 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.26 23:55:59 INFO  time: compiled root in 1.24s
+2024.11.26 23:58:40 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.26 23:58:43 WARN  javac exited with exit code -1
+2024.11.26 23:58:43 INFO  time: compiled root in 2.92s
+2024.11.26 23:58:43 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.26 23:58:44 WARN  javac exited with exit code -1
+2024.11.26 23:58:44 INFO  time: compiled root in 0.98s
+2024.11.26 23:59:49 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.26 23:59:52 WARN  javac exited with exit code -1
+2024.11.26 23:59:52 INFO  time: compiled root in 2.98s
+Nov 27, 2024 12:14:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 674
+Nov 27, 2024 12:14:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 676
+2024.11.27 00:14:56 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:14:59 WARN  javac exited with exit code -1
+2024.11.27 00:14:59 INFO  time: compiled root in 3.01s
+2024.11.27 00:14:59 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:15:00 WARN  javac exited with exit code -1
+2024.11.27 00:15:00 INFO  time: compiled root in 1.11s
+2024.11.27 00:16:28 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:16:29 INFO  time: compiled root in 1.12s
+something's wrong: no file:///home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala in play.api.db.slick.HasDatabaseConfigProvider[<error>]RangePosition(file:///home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/TaskList.scala, 516, 516, 551)
+2024.11.27 00:17:09 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:17:13 WARN  javac exited with exit code -1
+2024.11.27 00:17:13 INFO  time: compiled root in 3.65s
+2024.11.27 00:18:56 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:18:59 WARN  javac exited with exit code -1
+2024.11.27 00:18:59 INFO  time: compiled root in 3.2s
+2024.11.27 00:19:10 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:19:11 WARN  javac exited with exit code -1
+2024.11.27 00:19:11 INFO  time: compiled root in 1.5s
+2024.11.27 00:20:20 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:20:23 WARN  javac exited with exit code -1
+2024.11.27 00:20:23 INFO  time: compiled root in 3.05s
+2024.11.27 00:20:28 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:20:30 WARN  javac exited with exit code -1
+2024.11.27 00:20:30 INFO  time: compiled root in 1.49s
+2024.11.27 00:28:16 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:28:19 WARN  javac exited with exit code -1
+2024.11.27 00:28:19 INFO  time: compiled root in 3.18s
+2024.11.27 00:30:06 WARN  Could not find 'createUser' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 00:30:16 INFO  compiling root (15 scala sources and 1 java source)
+2024.11.27 00:30:17 INFO  time: compiled root in 1.22s
+2024.11.27 00:30:30 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:30:32 WARN  javac exited with exit code -1
+2024.11.27 00:30:32 INFO  time: compiled root in 2.18s
+2024.11.27 00:30:32 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:30:32 WARN  javac exited with exit code -1
+2024.11.27 00:30:32 INFO  time: compiled root in 0.96s
+2024.11.27 00:30:43 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:30:43 INFO  time: compiled root in 0.28s
+2024.11.27 00:30:51 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:30:51 INFO  time: compiled root in 0.26s
+2024.11.27 00:30:53 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:30:53 INFO  time: compiled root in 0.24s
+2024.11.27 00:30:55 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:30:55 INFO  time: compiled root in 0.23s
+2024.11.27 00:31:00 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:31:00 INFO  time: compiled root in 0.23s
+2024.11.27 00:31:17 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:31:17 INFO  time: compiled root in 0.23s
+Nov 27, 2024 12:31:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1710
+2024.11.27 00:31:44 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:31:46 WARN  javac exited with exit code -1
+2024.11.27 00:31:46 INFO  time: compiled root in 1.79s
+2024.11.27 00:31:58 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:31:59 WARN  javac exited with exit code -1
+2024.11.27 00:31:59 INFO  time: compiled root in 1.18s
+2024.11.27 00:33:10 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:33:10 INFO  time: compiled root in 0.32s
+2024.11.27 00:33:22 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:33:22 INFO  time: compiled root in 0.13s
+2024.11.27 00:33:42 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:33:42 INFO  time: compiled root in 0.84s
+2024.11.27 00:33:46 WARN  Could not find 'DatabaseConfigProvider' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 00:33:46 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:33:46 INFO  time: compiled root in 0.37s
+Nov 27, 2024 12:34:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2102
+2024.11.27 00:34:35 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:34:35 INFO  time: compiled root in 0.38s
+2024.11.27 00:50:44 WARN  Could not find 'TaskModel' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 00:51:09 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:51:10 INFO  time: compiled root in 1.2s
+2024.11.27 00:51:19 ERROR searching for `.` failed
+java.lang.RuntimeException: invalid symbol format
+.
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:211)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.11.27 00:51:19 ERROR searching for `#` failed
+java.lang.RuntimeException: invalid symbol format
+#
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:214)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.11.27 00:51:19 ERROR searching for `().` failed
+java.lang.RuntimeException: invalid symbol format
+().
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:209)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.11.27 00:51:19 WARN  Could not find 'getTasks' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 00:51:25 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:51:25 INFO  time: compiled root in 0.48s
+2024.11.27 00:51:25 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:51:25 INFO  time: compiled root in 0.36s
+2024.11.27 00:51:28 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:51:28 INFO  time: compiled root in 0.34s
+2024.11.27 00:52:17 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:52:17 INFO  time: compiled root in 0.34s
+Nov 27, 2024 12:53:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2842
+2024.11.27 00:53:30 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:53:32 INFO  time: compiled root in 1.3s
+2024.11.27 00:56:29 WARN  Could not find 'TaskModel' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 00:56:31 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:56:33 INFO  time: compiled root in 1.23s
+2024.11.27 00:56:35 WARN  Could not find 'TaskModel' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 00:56:35 WARN  Could not find 'addTask' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 00:56:36 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:56:36 INFO  time: compiled root in 0.41s
+2024.11.27 00:56:54 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:56:54 INFO  time: compiled root in 0.32s
+2024.11.27 00:57:47 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:57:47 INFO  time: compiled root in 0.37s
+2024.11.27 00:57:50 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:57:50 INFO  time: compiled root in 0.31s
+2024.11.27 00:58:05 INFO  compiling root (8 scala sources)
+2024.11.27 00:58:05 INFO  time: compiled root in 0.22s
+2024.11.27 00:58:05 INFO  compiling root (8 scala sources)
+2024.11.27 00:58:05 INFO  time: compiled root in 0.2s
+2024.11.27 00:58:08 INFO  compiling root (12 scala sources and 1 java source)
+2024.11.27 00:58:08 INFO  time: compiled root in 0.32s
+2024.11.27 00:58:08 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:58:08 INFO  time: compiled root in 0.28s
+2024.11.27 00:58:30 WARN  Could not find 'TaskModel' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 00:58:30 WARN  Could not find 'removeTask' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 00:58:31 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 00:58:31 INFO  time: compiled root in 0.22s
+2024.11.27 01:01:35 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:01:37 INFO  time: compiled root in 1.29s
+2024.11.27 01:01:37 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:01:38 INFO  time: compiled root in 0.41s
+2024.11.27 01:01:52 WARN  Could not find 'ExecutionContext' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 01:01:59 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:01:59 INFO  time: compiled root in 0.38s
+2024.11.27 01:02:02 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:02:02 INFO  time: compiled root in 0.32s
+Nov 27, 2024 1:02:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3577
+2024.11.27 01:03:07 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:03:07 WARN  Could not find 'ExecutionContext' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 01:03:08 INFO  time: compiled root in 1.29s
+2024.11.27 01:03:08 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:03:08 INFO  time: compiled root in 0.45s
+2024.11.27 01:04:10 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:04:11 INFO  time: compiled root in 1.22s
+2024.11.27 01:04:28 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:04:28 INFO  time: compiled root in 0.46s
+2024.11.27 01:04:33 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:04:33 INFO  time: compiled root in 0.36s
+2024.11.27 01:05:34 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:05:34 INFO  time: compiled root in 96ms
+2024.11.27 01:05:45 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:05:45 INFO  time: compiled root in 0.87s
+2024.11.27 01:05:49 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:05:49 INFO  time: compiled root in 0.42s
+2024.11.27 01:07:50 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:07:51 INFO  time: compiled root in 1.3s
+2024.11.27 01:07:59 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:07:59 INFO  time: compiled root in 0.49s
+2024.11.27 01:10:58 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:11:00 INFO  time: compiled root in 1.24s
+2024.11.27 01:11:22 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:11:22 INFO  time: compiled root in 0.52s
+2024.11.27 01:11:24 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:11:24 INFO  time: compiled root in 0.34s
+2024.11.27 01:12:25 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:12:25 INFO  time: compiled root in 0.42s
+2024.11.27 01:14:02 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:14:04 INFO  time: compiled root in 1.23s
+2024.11.27 01:15:45 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:15:47 INFO  time: compiled root in 1.28s
+2024.11.27 01:15:49 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:15:49 INFO  time: compiled root in 0.5s
+2024.11.27 01:15:50 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:15:50 INFO  time: compiled root in 0.34s
+2024.11.27 01:15:53 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:15:53 INFO  time: compiled root in 0.32s
+2024.11.27 01:18:10 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:18:11 INFO  time: compiled root in 1.21s
+2024.11.27 01:18:20 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:18:20 INFO  time: compiled root in 0.45s
+2024.11.27 01:18:33 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:18:33 INFO  time: compiled root in 0.35s
+2024.11.27 01:19:15 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:19:15 INFO  time: compiled root in 0.11s
+2024.11.27 01:19:23 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:19:23 INFO  time: compiled root in 0.32s
+2024.11.27 01:19:30 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:19:30 INFO  time: compiled root in 0.26s
+2024.11.27 01:20:32 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:20:34 INFO  time: compiled root in 1.27s
+2024.11.27 01:20:38 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:20:38 INFO  time: compiled root in 0.52s
+2024.11.27 01:21:17 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:21:17 INFO  time: compiled root in 0.46s
+2024.11.27 01:21:41 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:21:41 INFO  time: compiled root in 0.29s
+2024.11.27 01:21:57 WARN  Could not find 'ExecutionContext' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 01:22:47 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:22:47 INFO  time: compiled root in 0.36s
+2024.11.27 01:23:45 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:23:47 WARN  javac exited with exit code -1
+2024.11.27 01:23:47 INFO  time: compiled root in 2.04s
+2024.11.27 01:23:50 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:23:51 WARN  javac exited with exit code -1
+2024.11.27 01:23:51 INFO  time: compiled root in 1.27s
+2024.11.27 01:27:21 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:27:23 INFO  time: compiled root in 1.16s
+Nov 27, 2024 1:28:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5837
+2024.11.27 01:28:46 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:28:50 WARN  javac exited with exit code -1
+2024.11.27 01:28:50 INFO  time: compiled root in 3.21s
+2024.11.27 01:29:00 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:29:00 INFO  time: compiled root in 0.11s
+2024.11.27 01:29:13 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:29:13 INFO  time: compiled root in 0.47s
+2024.11.27 01:29:28 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:29:28 INFO  time: compiled root in 0.34s
+2024.11.27 01:30:48 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:30:49 INFO  time: compiled root in 1.25s
+2024.11.27 01:30:55 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:30:55 INFO  time: compiled root in 0.52s
+2024.11.27 01:31:45 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:31:45 INFO  time: compiled root in 0.12s
+2024.11.27 01:31:50 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:31:50 INFO  time: compiled root in 71ms
+2024.11.27 01:31:59 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:31:59 INFO  time: compiled root in 68ms
+2024.11.27 01:32:08 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:32:08 INFO  time: compiled root in 0.91s
+2024.11.27 01:32:14 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:32:14 INFO  time: compiled root in 0.41s
+2024.11.27 01:32:23 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:32:23 INFO  time: compiled root in 0.3s
+2024.11.27 01:32:45 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:32:45 INFO  time: compiled root in 0.27s
+2024.11.27 01:33:03 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:33:03 INFO  time: compiled root in 0.25s
+2024.11.27 01:33:19 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:33:19 INFO  time: compiled root in 0.22s
+2024.11.27 01:33:31 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:33:31 INFO  time: compiled root in 0.22s
+2024.11.27 01:33:41 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:33:41 INFO  time: compiled root in 0.23s
+2024.11.27 01:33:49 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:33:49 INFO  time: compiled root in 0.22s
+2024.11.27 01:34:22 WARN  Could not find 'login' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 01:34:51 WARN  Could not find 'ExecutionContext' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 01:36:10 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:36:10 INFO  time: compiled root in 0.29s
+2024.11.27 01:36:17 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:36:17 INFO  time: compiled root in 0.22s
+2024.11.27 01:36:37 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:36:37 INFO  time: compiled root in 0.2s
+2024.11.27 01:36:57 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:36:57 INFO  time: compiled root in 0.2s
+2024.11.27 01:37:00 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:37:00 INFO  time: compiled root in 0.21s
+2024.11.27 01:37:06 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:37:06 INFO  time: compiled root in 0.22s
+2024.11.27 01:37:11 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:37:11 INFO  time: compiled root in 0.21s
+2024.11.27 01:37:53 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:37:53 INFO  time: compiled root in 0.27s
+2024.11.27 01:38:07 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:38:07 INFO  time: compiled root in 0.2s
+2024.11.27 01:38:17 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:38:17 INFO  time: compiled root in 0.19s
+2024.11.27 01:38:26 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:38:26 INFO  time: compiled root in 0.2s
+2024.11.27 01:38:30 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:38:30 INFO  time: compiled root in 0.25s
+Nov 27, 2024 1:41:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7921
+2024.11.27 01:41:25 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:41:25 INFO  time: compiled root in 0.27s
+2024.11.27 01:41:39 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:41:39 INFO  time: compiled root in 0.2s
+2024.11.27 01:42:21 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:42:21 INFO  time: compiled root in 0.27s
+Nov 27, 2024 1:46:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8036
+2024.11.27 01:47:26 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:47:26 INFO  time: compiled root in 0.27s
+2024.11.27 01:47:36 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:47:36 INFO  time: compiled root in 0.2s
+2024.11.27 01:47:45 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:47:45 INFO  time: compiled root in 0.2s
+2024.11.27 01:49:37 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:49:37 INFO  time: compiled root in 0.28s
+2024.11.27 01:49:57 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:49:57 INFO  time: compiled root in 0.2s
+2024.11.27 01:50:09 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:50:09 INFO  time: compiled root in 0.19s
+2024.11.27 01:50:26 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:50:26 INFO  time: compiled root in 0.19s
+2024.11.27 01:50:28 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:50:28 INFO  time: compiled root in 0.27s
+2024.11.27 01:50:28 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:50:28 INFO  time: compiled root in 0.22s
+Nov 27, 2024 1:50:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8532
+2024.11.27 01:50:43 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:50:43 INFO  time: compiled root in 0.19s
+2024.11.27 01:51:17 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:51:17 INFO  time: compiled root in 0.26s
+2024.11.27 01:51:30 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:51:30 INFO  time: compiled root in 0.19s
+2024.11.27 01:51:34 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:51:34 INFO  time: compiled root in 0.24s
+2024.11.27 01:51:56 INFO  compiling root (12 scala sources)
+2024.11.27 01:51:56 WARN  Invalid text document uri received from build server: file:///home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/target/scala-2.13/routes/main/router/Routes.scala
+2024.11.27 01:51:56 INFO  time: compiled root in 0.21s
+2024.11.27 01:51:56 INFO  compiling root (12 scala sources)
+2024.11.27 01:51:56 INFO  time: compiled root in 0.19s
+2024.11.27 01:52:31 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:52:31 INFO  time: compiled root in 0.29s
+2024.11.27 01:52:31 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:52:31 INFO  time: compiled root in 0.21s
+2024.11.27 01:52:50 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:52:50 INFO  time: compiled root in 0.2s
+2024.11.27 01:53:15 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:53:15 INFO  time: compiled root in 0.2s
+2024.11.27 01:53:18 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:53:18 INFO  time: compiled root in 0.25s
+2024.11.27 01:53:53 ERROR searching for `.` failed
+java.lang.RuntimeException: invalid symbol format
+.
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:211)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.11.27 01:53:53 ERROR searching for `#` failed
+java.lang.RuntimeException: invalid symbol format
+#
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:214)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.11.27 01:53:53 ERROR searching for `().` failed
+java.lang.RuntimeException: invalid symbol format
+().
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:209)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.11.27 01:53:53 WARN  Could not find 'flashing' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 01:54:10 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:54:10 INFO  time: compiled root in 0.27s
+2024.11.27 01:54:43 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:54:43 INFO  time: compiled root in 0.2s
+2024.11.27 01:54:56 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:54:56 INFO  time: compiled root in 0.2s
+2024.11.27 01:54:59 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:54:59 INFO  time: compiled root in 0.24s
+2024.11.27 01:55:20 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:55:20 INFO  time: compiled root in 0.21s
+2024.11.27 01:55:37 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:55:37 INFO  time: compiled root in 0.2s
+2024.11.27 01:56:04 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:56:04 ERROR searching for `.` failed
+java.lang.RuntimeException: invalid symbol format
+.
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:211)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.11.27 01:56:04 ERROR searching for `#` failed
+java.lang.RuntimeException: invalid symbol format
+#
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:214)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.11.27 01:56:04 ERROR searching for `().` failed
+java.lang.RuntimeException: invalid symbol format
+().
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:209)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.11.27 01:56:04 WARN  Could not find 'withSession' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.27 01:56:04 INFO  time: compiled root in 0.2s
+2024.11.27 01:56:06 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:56:06 INFO  time: compiled root in 0.29s
+2024.11.27 01:56:06 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 01:56:06 INFO  time: compiled root in 0.19s
+2024.11.27 02:03:44 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 02:03:44 INFO  time: compiled root in 0.31s
+2024.11.27 02:05:16 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 02:05:16 INFO  time: compiled root in 0.29s
+2024.11.27 02:08:24 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 02:08:24 INFO  time: compiled root in 0.26s
+2024.11.27 02:08:26 INFO  Shutting down server
+2024.11.27 02:08:26 INFO  shutting down Metals
+2024.11.27 02:08:26 INFO  Shut down connection with build server.
+2024.11.27 02:08:26 INFO  Exiting server
+2024.11.27 22:02:01 INFO  Started: Metals version 1.4.1 in folders '/home/vitamin1312/Documents/IT/PlayToDoList' for client Visual Studio Code 1.95.3.
+2024.11.27 22:02:01 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.27 22:02:01 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/UsersController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 22:02:01 INFO  Attempting to connect to the build server...
+2024.11.27 22:02:01 INFO  No running Bloop server found, starting one.
+2024.11.27 22:02:01 ERROR Running process '/usr/lib/jvm/java-21-openjdk-21.0.5.0.11-1.fc41.x86_64/bin/jps -l' failed
+java.io.IOException: Cannot run program "/usr/lib/jvm/java-21-openjdk-21.0.5.0.11-1.fc41.x86_64/bin/jps" (in directory "/home/vitamin1312/.local/share/scalacli/bloop"): error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at scala.meta.internal.process.SystemProcess$.run(SystemProcess.scala:48)
+	at scala.meta.internal.builds.ShellRunner$.runSync(ShellRunner.scala:169)
+	at scala.meta.internal.metals.BloopServers.$anonfun$checkOldBloopRunning$1(BloopServers.scala:244)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.BloopServers.checkOldBloopRunning(BloopServers.scala:242)
+	at scala.meta.internal.metals.BloopServers.connect(BloopServers.scala:363)
+	at scala.meta.internal.metals.BloopServers.$anonfun$newServer$1(BloopServers.scala:103)
+	at scala.meta.internal.metals.BuildServerConnection$.setupServer$1(BuildServerConnection.scala:600)
+	at scala.meta.internal.metals.BuildServerConnection$.fromSockets(BuildServerConnection.scala:668)
+	at scala.meta.internal.metals.BloopServers.newServer(BloopServers.scala:95)
+	at scala.meta.internal.bsp.BspConnector.connect$1(BspConnector.scala:108)
+	at scala.meta.internal.bsp.BspConnector.connect(BspConnector.scala:215)
+	at scala.meta.internal.metals.ConnectionProvider$Connect$.$anonfun$createSession$4(ConnectionProvider.scala:477)
+	at scala.meta.internal.metals.TimerProvider.withTimer(TimerProvider.scala:38)
+	at scala.meta.internal.metals.TimerProvider.timed(TimerProvider.scala:14)
+	at scala.meta.internal.metals.ConnectionProvider$Connect$.$anonfun$createSession$3(ConnectionProvider.scala:477)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:295)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:225)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at scala.meta.internal.process.SystemProcess$.run(SystemProcess.scala:48)
+	at scala.meta.internal.builds.ShellRunner$.runSync(ShellRunner.scala:169)
+	at scala.meta.internal.metals.BloopServers.$anonfun$checkOldBloopRunning$1(BloopServers.scala:244)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.BloopServers.checkOldBloopRunning(BloopServers.scala:242)
+	at scala.meta.internal.metals.BloopServers.connect(BloopServers.scala:363)
+	at scala.meta.internal.metals.BloopServers.$anonfun$newServer$1(BloopServers.scala:103)
+	at scala.meta.internal.metals.BuildServerConnection$.setupServer$1(BuildServerConnection.scala:600)
+	at scala.meta.internal.metals.BuildServerConnection$.fromSockets(BuildServerConnection.scala:668)
+	at scala.meta.internal.metals.BloopServers.newServer(BloopServers.scala:95)
+	at scala.meta.internal.bsp.BspConnector.connect$1(BspConnector.scala:108)
+	at scala.meta.internal.bsp.BspConnector.connect(BspConnector.scala:215)
+	at scala.meta.internal.metals.ConnectionProvider$Connect$.$anonfun$createSession$4(ConnectionProvider.scala:477)
+	at scala.meta.internal.metals.TimerProvider.withTimer(TimerProvider.scala:38)
+	at scala.meta.internal.metals.TimerProvider.timed(TimerProvider.scala:14)
+	at scala.meta.internal.metals.ConnectionProvider$Connect$.$anonfun$createSession$3(ConnectionProvider.scala:477)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2024.11.27 22:02:02 INFO  Starting compilation server
+2024.11.27 22:02:02 INFO  no build target found for /home/vitamin1312/Documents/IT/PlayToDoList/scalabackend/app/controllers/UsersController.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 22:02:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/vitamin1312/Documents/IT/PlayToDoList/.metals/bsp.trace.json or /home/vitamin1312/.cache/metals/bsp.trace.json
+2024.11.27 22:02:03 INFO  time: Connected to build server in 1.73s
+2024.11.27 22:02:03 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.27 22:02:03 INFO  time: Imported build in 0.15s
+2024.11.27 22:02:03 INFO  running doctor check
+2024.11.27 22:02:03 INFO  java targets: root, root-test
+2024.11.27 22:02:05 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-21.0.5.0.11-1.fc41.x86_64/src.zip, /usr/lib/jvm/java-21-openjdk-21.0.5.0.11-1.fc41.x86_64/lib/src.zip. Java symbols will not be available.
+2024.11.27 22:02:05 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-21-openjdk-21.0.5.0.11-1.fc41.x86_64/src.zip, /usr/lib/jvm/java-21-openjdk-21.0.5.0.11-1.fc41.x86_64/lib/src.zip. Java symbols will not be available.
+2024.11.27 22:02:05 INFO  time: indexed workspace in 2.07s
+2024.11.27 22:02:06 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 22:02:08 INFO  time: compiled root in 1.94s
+2024.11.27 22:02:08 INFO  compiling root (16 scala sources and 1 java source)
+2024.11.27 22:02:08 INFO  time: compiled root in 0.8s
